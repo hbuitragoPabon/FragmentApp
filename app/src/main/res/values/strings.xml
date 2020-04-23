@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+    
+    <string-array name="image_ids">
+        <item>@drawable/perfil</item>
+
+    </string-array>
+    
+</resources>
